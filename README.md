@@ -1,6 +1,6 @@
 # Xite Is a Text Editor  
  
-XITE (Xite Is a Text Editor) is a TUI based text editor written completely in C from scratch. 
+XITE (Xite Is a Text Editor) is a TUI based text editor written completely in C from scratch.  
 
 ## Installation
  
